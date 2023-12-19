@@ -35,6 +35,15 @@ section header ul li{
 }
 
 section header ul li a{
-    color: #3b3131;
+    color: #111010;
     text-decoration: none;
+}
+
+.material-symbols-outlined{
+    padding: 5px;
+}
+
+section header ul li button{
+    color: white;
+    background-color: blue;
 }
